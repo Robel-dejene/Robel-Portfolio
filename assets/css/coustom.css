@@ -1,0 +1,23 @@
+.deep-blue {
+	color: deepskyblue !important;
+}
+.discription {
+	display: none;
+	opacity: 1;
+	left: 0;
+	right: 0;
+	bottom: 130px;
+	z-index: 3;
+	position: absolute;
+	text-align: center;
+    font-weight: bold;
+    /* color: rgba(20, 157, 221); */
+    color: black;
+    border: 5px solid gray;
+    background-color: rgba(20, 157, 221, 0.75);
+    border-radius: 5px;
+	/* transition: all ease-in-out 0.3s; */
+}
+.box:hover .discription{
+	display: block;
+}
