@@ -27,8 +27,8 @@
 	border: none;
 	padding: 15px;
 	border-radius: 5px;
-	width: 20vw;
-	margin-top: 5vh;
+	/* width: 20px; */
+	margin-top: 3vh;
 	cursor: pointer;
 }
 .myResume a{
