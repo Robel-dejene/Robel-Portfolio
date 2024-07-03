@@ -21,3 +21,27 @@
 .box:hover .discription{
 	display: block;
 }
+.myResume {
+	background-color: #425cbb;
+	color: white;
+	border: none;
+	padding: 15px;
+	border-radius: 5px;
+	width: 20vw;
+	margin-top: 5vh;
+	cursor: pointer;
+}
+.myResume a{
+	color: white;
+}
+.myResume:hover a{
+	color: #425cbb;
+}
+.myResume:hover{
+	background-color: lightgray;
+	border: 1px solid black;
+}
+
+.middle {
+	text-align: center;
+}
